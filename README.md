@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Meh4di
-- 👀 I’m interested in Python and Java 
-- 🌱 I’m currently learning Basics Coding 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me hmehadi096@gmail.com
 
 <!---
